@@ -1,6 +1,3 @@
-//Time Limit: 초
-//Memory Limit: MB
-
 #include <iostream>
 #include <vector>
 #include <algorithm>

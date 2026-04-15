@@ -2,9 +2,9 @@
 /* File Name         : 2493.cpp                                                 */
 /* By                : MinGyu Jeong                            KK  KK   BBBBB   */
 /* Algorithm         : Array                                   KK KK    BB  BB  */
-/* Time Complexity   :                                         KKKKK    BBBBB   */
-/* Space Complexity  :                                         KK KK    BB  BB  */
-/* Note              :                                         KK  KK   BBBBB   */
+/* Time Complexity   : O(N^2)                                  KKKKK    BBBBB   */
+/* Space Complexity  : O(N)                                    KK KK    BB  BB  */
+/* Note              : 시간 제한 걸린 풀이(배열 방식)          KK  KK   BBBBB   */
 /*                                                                              */
 /********************************************************************************/
 
@@ -21,6 +21,7 @@ int main()
     ios::sync_with_stdio(false);cin.tie(NULL);cout.tie(NULL);
     int N;
     cin >> N;
+    // 공간복잡도 : O(N)
     // 탑 높이 저장 벡테
     vector<int> height(N);
     // 출력 저장 벡터 - 0 초기화
