@@ -1,9 +1,9 @@
 /********************************************************************************/
 /* File Name         : 1406.cpp                                                 */
 /* By                : MinGyu Jeong                            KK  KK   BBBBB   */
-/* Algorithm         :                                         KK KK    BB  BB  */
-/* Time Complexity   :                                         KKKKK    BBBBB   */
-/* Space Complexity  :                                         KK KK    BB  BB  */
+/* Algorithm         : Stack                                   KK KK    BB  BB  */
+/* Time Complexity   : O(N)                                    KKKKK    BBBBB   */
+/* Space Complexity  : O(N)                                    KK KK    BB  BB  */
 /* Note              :                                         KK  KK   BBBBB   */
 /*                                                                              */
 /********************************************************************************/
